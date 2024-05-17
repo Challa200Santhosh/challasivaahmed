@@ -13,6 +13,5 @@ int main()
    printf("product of %d and %d is %d\n",num1 ,num2,result1);
    printf("ratio of %d and %d is %d\n",num1 ,num2,result2);
    printf("power of the number %d and %d  is eqaual to the %d",num1,num2,result3);
-   
     return 0;
 }
