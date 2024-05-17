@@ -1,4 +1,4 @@
-name: build
+name: Build
 
 on:
   push:
@@ -13,6 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: build
-      run: gcc implementation/main.c
+    - name: Build
+      run: gcc testing/main.c
    
