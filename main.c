@@ -7,7 +7,7 @@ int main()
    result = num1 - num2;
    result1 = num1 * num2;
    result2 = num1 / num2;
-   result3 = num1 ** num2;
+   result3 = num1 % num2;
 
    printf("Sub of %d and %d is %d\n",num1 ,num2,result);
    printf("product of %d and %d is %d\n",num1 ,num2,result1);
