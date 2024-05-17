@@ -11,12 +11,6 @@ int main()
    printf("Sub of %d and %d is %d\n",num1 ,num2,result);
    printf("product of %d and %d is %d\n",num1 ,num2,result1);
    printf("ratio of %d and %d is %d\n",num1 ,num2,result2);
-   if(num1%2==0){
-    print("even");
-   }
-   else{
-    print("odd");
-   }
    
     return 0;
 }
